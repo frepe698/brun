@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeoMessager</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location_permission_denied">Permission Denied</string>
+    <string name="permission_required_toast">Permission required</string>
+    <string name="permission_rationale_location">Access to the location service is required"</string>
+
+    <string name="distance_text_string">Total Distance: </string>
+    <string name="start_button_string">Start</string>
+
+</resources>
